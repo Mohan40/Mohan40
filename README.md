@@ -11,7 +11,7 @@ I build scalable microservices, serverless applications, real-time systems, and 
 - **Backend:** REST APIs, WebSockets, Microservices, Automation
 
 ### Highlights
-- Built and maintained 10+ AWS Lambda functions for real-time features and data processing.
+- Built and maintained multiple AWS Compute Services for real-time features and data processing.
 - Developed CLI tools that reduced manual configuration effort by approximately 70%.
 - Improved deployment efficiency by automating infrastructure provisioning with AWS CDK.
 - Experienced in code reviews, mentoring, and collaborative engineering.
